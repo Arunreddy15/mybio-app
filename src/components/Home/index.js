@@ -29,7 +29,7 @@ const Home = () => (
       </div>
       <div className="home-pic">
         <img
-          alt="my"
+          alt="myp"
           src="https://res.cloudinary.com/imagelinks/image/upload/v1637499169/arun_nrljpt.jpg"
         />
       </div>
